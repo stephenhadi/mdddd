@@ -4,12 +4,12 @@
 	"requestByYear":{
 		"1990":[{
 			"count": Integers,
-			"answer": "rejected",
+			"answer": "T",
 			"year": 1990			
 		},
 		{
 			"count":Integers,
-			"answer": "printed",
+			"answer": "G",
 			"year": 1990
 		}],
 		"1991":[{...}],
@@ -18,12 +18,12 @@
 	"requestByDay":{
 		"Senin":[{
 			"count": Integers,
-			"answer": "rejected",
+			"answer": "T",
 			"day": "monday"
 		},
 		{
 			"count":Integers,
-			"answer":"printed",
+			"answer":"X",
 			"day": "tuesday"
 		}],
 		"Selasa":[{...}],
@@ -33,7 +33,7 @@
 	"requestByHour":{
 		"00:00":[{
 			"count":Integers,
-			"answer": "rejected",
+			"answer": "T",
 			"jam": 00
 		}],
 		"01:00":[{...}],
